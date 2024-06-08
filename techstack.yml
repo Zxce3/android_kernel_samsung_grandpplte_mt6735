@@ -1,0 +1,144 @@
+repo_name: Zxce3/android_kernel_samsung_grandpplte_mt6735
+report_id: 929bccfce917d2a49c9e80124072d541
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-08T17:23:02+00:00'
+requested_by: melekpro
+provider: github
+branch: master
+detected_tools_count: 13
+tools:
+- name: AWK
+  description: A language for text processing, data extraction and reporting
+  website_url: https://github.com/onetrueawk/awk
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: Assembly Language
+  description: A low-level programming language
+  website_url: https://en.wikipedia.org/wiki/Assembly_language
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: Clojure
+  description: A dynamic programming language that targets the Java Virtual Machine
+  website_url: http://clojure.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1003/Clojure_300x300.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: Hibernate
+  description: Idiomatic persistence for Java and relational databases.
+  website_url: http://hibernate.org/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Object Relational Mapper (ORM)
+  image_url: https://img.stackshare.io/service/1756/1uNl_IZX.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735/blob/master/arch/arm/kernel/hibernate.c
+  detection_source: arch/arm/kernel/hibernate.c
+  last_updated_by: renoxtv
+  last_updated_on: 2019-04-07 06:38:21.000000000 Z
+- name: GNU sed
+  description: A non-interactive command-line text editor
+  website_url: https://www.gnu.org/software/sed/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/3635/default_6369b655647204026aee2fa41eaa721d27a30528.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: Stata
+  description: 'Stata provides an integrated statistics, graphics, and data-management
+    solution for those who analyze data. French tweets: @Stata_fr &amp; Spanish tweets:
+    @Stata_es'
+  website_url: www.stata.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9029/t0cvDago_normal.jpg
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
+- name: gdb
+  description: GNU debugger tool
+  website_url: https://www.sourceware.org/gdb/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/6225/no-img-open-source.png
+  detection_source_url: https://github.com/Zxce3/android_kernel_samsung_grandpplte_mt6735
+  detection_source: Repo Metadata
